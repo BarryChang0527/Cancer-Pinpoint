@@ -11,6 +11,6 @@ All the functions can be realized by GUI.
 
 ##### 1.Annotate coordinates
 
-##### 2.Plot the 
+##### 2.Plot the coordinates
 
 ##### 3.Examine the correctness of the data from ultrasound by comparing them with the manually annotated data.  
