@@ -12,8 +12,14 @@ All the functions can be realized by GUI.
 ##### 1.Annotate coordinates
 User can first create a .csv file through the button "New CSV", and then load this new file and the pictures to be marked through the button "LoadCSV and Pic". After user clicks "mark", a cursor will appear and then the user can mark the position of the cancer. The coordinates will be shown and also be recorded in the loaded file.
 
+![Annotate coordinates](screenshots/Annotate.png)
+
 ##### 2.Plot the coordinates
 User can load a .csv file that contains the coordinates of cancers. Clicking the button "Plot X" or "Plot Y", user can view the trend of cancer's movement.
 
+![Annotate coordinates](screenshots/Plot.png)
+
 ##### 3.Examine the correctness of the data from ultrasound by comparing them with the manually annotated data.  
 User can load a .csv file that contains the coordinates of cancers (from ultrasound). Clicking the button "Load Template", user can precisely mark the center of the canter. This is used as the template for examing the overlap ratio between the template and the data from .csv file. Overlap ratio is from 0.0 to 1.0, and a higher value indicates a more correct data from .csv file.
+
+![Annotate coordinates](screenshots/Examine_correctness.png)
