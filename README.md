@@ -1,5 +1,6 @@
 # Cancer-Pinpoint
-My Project (finished during summer 2017) is a part of a larger project at Johns Hopkins University to use ultrasound to track the movement of cancer and then guide the radiation therapy to follow and target at the cancer. 
+My project (finished during summer 2017) is a part of a larger project at Johns Hopkins University to use ultrasound to track the movement of cancer and then guide radiation therapy to follow and target cancer.
+
 
 ## Introduction
 Intensity-modulated radiation therapy (IMRT) is a targeted treatment currently widely used in curing cancer. It could target at the cancer area and thus bringing less harm to surrounding normal areas. However, with the interference of involuntary motion, including respiration, cardiac activity, we have to target at the whole areas that cancer may move around, which also harms the normal tissues during treatments. Our goal is to use ultrasound to track the movement of cancer and then guide the radiation therapy to follow and target at the cancer. 
