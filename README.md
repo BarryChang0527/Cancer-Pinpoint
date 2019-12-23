@@ -21,6 +21,6 @@ User can load a .csv file that contains the coordinates of cancers. Clicking the
 ![Annotate coordinates](screenshots/Plot.png)
 
 ##### 3.Examine the correctness of the data from ultrasound by comparing them with the manually annotated data.  
-User can load a .csv file that contains the coordinates of cancers (from ultrasound). Clicking the button "Load Template", user can precisely mark the center of the canter. This is used as the template for examing the overlap ratio between the template and the data from .csv file. Overlap ratio is from 0.0 to 1.0, and a higher value indicates a more correct data from .csv file.
+User can load a .csv file that contains the coordinates of cancers (from ultrasound). Clicking the button "Load Template", user can precisely mark the center of the cancer. This is used as the template for examing the overlap ratio between the template and the data from .csv file. Overlap ratio is from 0.0 to 1.0, and a higher value indicates a more correct data from .csv file.
 
 ![Annotate coordinates](screenshots/Examine_correctness.png)
